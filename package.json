@@ -1,0 +1,19 @@
+{
+  "name": "glayzzle-types",
+  "version": "1.0.0",
+  "description": "Types definitions for typescript",
+  "main": "php-reflection.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glayzzle/types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glayzzle/types/issues"
+  },
+  "homepage": "https://github.com/glayzzle/types#readme"
+}
